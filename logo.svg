@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="955" height="434" viewBox="0 0 955 434">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="955" height="434"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect width="955" height="434" fill="#ed43c8"/>
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(34 -61)">
+      <text id="SALÁRIO" transform="translate(161 281)" fill="#fff" font-size="131" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">SALÁRIO</tspan></text>
+      <text id="MATERNIDADE" transform="translate(23 388)" fill="#ffa51f" font-size="110" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">MATERNIDADE</tspan></text>
+    </g>
+  </g>
+</svg>
