@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecionamento</title>
+    <meta http-equiv="refresh" content="0; URL=https://api.whatsapp.com/send?phone=5511911111111&text=Oi+quero+saber+maiiiis">
+</head>
+<body>
+    <p>Redirecionando para o WhatsApp...</p>
+
+    <script>
+        var mensagemWhats = 'Oi quero saber mais!';
+        var phones = [
+            '5521990899554',
+            '5521990899554',
+            '5521990899554',
+            '5521990899554'
+        ];
+
+        var randomIndex = Math.floor(Math.random() * phones.length);
+        var phone = phones[randomIndex];
+        var url = 'https://api.whatsapp.com/send?phone=' + phone + '&text=' + encodeURIComponent(mensagemWhats);
+
+        window.location.href = url;
+    </script>
+</body>
+</html>
 
